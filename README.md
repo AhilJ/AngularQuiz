@@ -15,3 +15,12 @@ No backend is required for following steps, simple mockups or dummy-services wou
 * After final step show user his results (for simplification we can assume that first answer in each question was always the right one)
 
 Made by Teodor Birca / http://www.softacid.net/scripts 
+
+
+#run locally
+You need to have installed Node.js
+1.Open a terminal (CMD in windows) cd /server and run npm install
+2. node server.js
+3. open  a browser at http://localhost:3000 
+4. If you have any problem don't hesitate to contact me :) 
+<h2>This was just a simple funny task is not intended for production puprose</h2>
