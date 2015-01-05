@@ -23,4 +23,4 @@ You need to have installed Node.js
 * node server.js
 * open  a browser at http://localhost:3000 
 * If you have any problem don't hesitate to contact me :) 
-<h3>This was just a simple funny task is not intended for production puprose</h3>
+<h3>This was just a simple funny task is not intended for production</h3>
