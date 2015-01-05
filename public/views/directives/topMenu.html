@@ -1,0 +1,8 @@
+<ul class='nav navbar-nav' ng-if="isLoggedIn">
+  <li><a href="/#/quiz">Home</a></li>
+  <li ng-show="isLoggedIn" ng-click="logout()"><a href="">Logout</a></li>
+</ul>
+
+<p ng-if='currentUser' class="navbar-text navbar-right">
+  Signed in as {{currentUser}}
+</p>

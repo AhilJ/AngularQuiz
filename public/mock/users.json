@@ -1,0 +1,19 @@
+{
+  "userInfo": [
+    {
+      "email": "admin@softacid.net",
+      "password": "1234",
+      "name": "Teo"
+    },
+    {
+      "email": "info@yahoo.com",
+      "password": "test",
+      "name": "Yahoo"
+    },
+    {
+      "email": "ingmar@ingmar.net",
+      "password": "pass",
+      "name": "Ingmar"
+    }
+  ]
+}

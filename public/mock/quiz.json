@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "_id": 1,
+      "question": "What options you have to use a class in angular template?",
+      "choices": [
+        {
+          "_id": 1,
+          "choice": "ngClass"
+        },
+        {
+          "_id": 2,
+          "choice": "class"
+        },
+        {
+          "_id": 3,
+          "choice": "ngIf"
+        },
+        {
+          "_id": 4,
+          "choice": "ngShow"
+        }
+      ],
+      "answers": [
+        1,
+        2
+      ]
+    },
+    {
+      "_id": 2,
+      "question": "Which of the following are associated with AngularJS?",
+      "choices": [
+        {
+          "_id": 1,
+          "choice": "Controller"
+        },
+        {
+          "_id": 2,
+          "choice": "Directive"
+        },
+        {
+          "_id": 3,
+          "choice": "Generator"
+        },
+        {
+          "_id": 4,
+          "choice": "None of the above"
+        },
+        {
+          "_id": 5,
+          "choice": "Service"
+        }
+      ],
+      "answers": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "_id": 3,
+      "question": "What are the directive types in angular?",
+      "choices": [
+        {
+          "_id": 1,
+          "choice": "Element directives"
+        },
+        {
+          "_id": 2,
+          "choice": "Pozition Directive"
+        },
+        {
+          "_id": 3,
+          "choice": "Attribute directives"
+        },
+        {
+          "_id": 4,
+          "choice": "CSS class directives"
+        },
+        {
+          "_id": 5,
+          "choice": "Comment directives"
+        }
+      ],
+      "answers": [
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 4,
+      "question": "what are the options to connect to a API in angular?",
+      "choices": [
+        {
+          "_id": 1,
+          "choice": "XMLHttpRequest"
+        },
+        {
+          "_id": 2,
+          "choice": "$Get"
+        },
+        {
+          "_id": 3,
+          "choice": "$http"
+        },
+        {
+          "_id": 4,
+          "choice": "$resource"
+        },
+        {
+          "_id": 5,
+          "choice": "None are correct"
+        }
+      ],
+      "answers": [
+        3,
+        4
+      ]
+    },
+    {
+      "_id": 5,
+      "question": "Where can you store a variable in Angular?",
+      "choices": [
+        {
+          "_id": 1,
+          "choice": "Session storage"
+        },
+        {
+          "_id": 2,
+          "choice": "Local Storage"
+        },
+        {
+          "_id": 3,
+          "choice": "PouchDb"
+        },
+        {
+          "_id": 4,
+          "choice": "MySql"
+        },
+        {
+          "_id": 5,
+          "choice": "None are correct"
+        }
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+<h1>Welcome to our experimental Quiz</h1>
+<h4>Each question has multiple answers, you need to select all possible answers.</h4>
+<div ng-repeat="question in quizData" class="jumbotron">
+  <div class ="question">{{question._id}}. {{question.question}}</div>
+  <div ng-repeat="choice in question.choices" >
+    <input type="checkbox" required name="_id{{question._id}}" value="{{choice._id}}" ng-model="question.choice[$index]" ng-change="checkUserChoice(question, choice._id)"/>
+    {{choice.choice}}
+  </div>
+</div>
+<div ng-if="quizSubmitted">
+  <h4>Your Results:</h4>
+  <div ng-repeat="result in results">
+    <div ng-class="result.correct ? 'green': 'red'">{{result._id}} . {{(result.correct)? "Correct" : "Incorrect"}}</div>
+    <div ng-if="!result.correct">
+      <p>Correct answers : {{result.answers.toString()}}</p>
+    </div>
+  </div>
+</div>
+<div>
+  <input class="btn btn-success btn-lg btn-block" type="submit" value="Submit answers" ng-click="submitQuiz()">
+</div>
