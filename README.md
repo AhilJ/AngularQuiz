@@ -27,4 +27,14 @@ You need to have installed Node.js
 
 #Screens
 
+* Login area
 ![Alt text](https://cloud.githubusercontent.com/assets/6773248/5618874/8faaadae-9525-11e4-92cf-5e493788368d.PNG "Login area")
+
+* Quiz area
+![Alt text](https://cloud.githubusercontent.com/assets/6773248/5618876/8fadab30-9525-11e4-8b75-6463c08ec415.PNG "Quiz area")
+
+* Results area
+![Alt text](https://cloud.githubusercontent.com/assets/6773248/5618875/8fac05c8-9525-11e4-9ffa-3d09bc981de8.PNG "Results area")
+
+
+Have Fun!
