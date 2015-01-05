@@ -1,14 +1,6 @@
 # Angular test tasks
 
-## Tools
-
-You have following libraries installed to simplify starting:
-* angular
-* angular-loader
-* angular-mocks
-* angular-route
-* html5-boilerplate
-* bootstrap
+A simple angular quiz with multiple valid answers and a simple login system
 
 
 ## Test task: Quiz
