@@ -24,3 +24,7 @@ You need to have installed Node.js
 * open  a browser at http://localhost:3000 
 * If you have any problem don't hesitate to contact me :) 
 <h3>This was just a simple funny task is not intended for production</h3>
+
+#Screens
+
+![Alt text](https://cloud.githubusercontent.com/assets/6773248/5618874/8faaadae-9525-11e4-92cf-5e493788368d.PNG "Login area")
